@@ -1,0 +1,3 @@
+[submodule "submodule_mail"]
+	path = submodule_mail
+	url = https://github.com/romaric-roussel/submodule_mail
